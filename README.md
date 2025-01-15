@@ -1,4 +1,4 @@
-Beginner News or Article Summarizer
+# **Summarizer**
 
 Project Overview
 
